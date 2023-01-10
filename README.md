@@ -1,2 +1,1 @@
-#clone do instagram utilizando JavaScript, React e firebase
 Eu criei um projeto para clonar o Instagram usando JavaScript, React e Firebase. O projeto tem uma interface fácil de usar e armazena os dados no Firebase. Os usuários podem fazer login, publicar fotos e vídeos, curtir e comentar publicações de outros usuários. Ele funciona em qualquer dispositivo. Eu estou feliz com o resultado e espero continuar trabalhando em projetos parecidos no futuro
